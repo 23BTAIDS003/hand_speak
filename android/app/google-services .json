@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "855981092769",
+    "project_id": "handspeak-app",
+    "storage_bucket": "handspeak-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855981092769:android:1965a6e4343e4d8ff0a5e0",
+        "android_client_info": {
+          "package_name": "com.abisha.handspeak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiy2eL4O6ntnQd3S5jHDaLLHm58PhB71E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
